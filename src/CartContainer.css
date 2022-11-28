@@ -1,0 +1,10 @@
+.cartContainerBody {
+    height: 300px;
+    padding-left: 15px;
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 100px;
+}
